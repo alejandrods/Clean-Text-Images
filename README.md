@@ -14,3 +14,8 @@ Take the images and convert it to gray scale and we measure the number of white 
 * 7.- If the slope is between -0.06 and 0.06 return this values
 * 8.- If we have slope between -0.06 and 0.06 take the minimum line in y axis.
 * 9.- Delete from that point to the end of the picture
+
+## Result
+
+![alt text](https://github.com/alejandrods/Clean_Text_Images/blob/master/Imgs/Result.png)
+
