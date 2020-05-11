@@ -1,9 +1,5 @@
-# Clean_Text_Images
-Clean Automatically Text from Images
-
-
-Function to Clean Text Automatically
-Take the images and convert it to gray scale and we measure the number of white pixels (between 245 - 255) in the bottom of the image. Then we convert the image to blur scale and calculate the lines, if the slope of the lines is between -0.06 and 0.06 we return the values. Finally, we delete that part of the images.
+# Clean Text Images
+Function to Clean Text Automatically. It takes the images and converts it to gray scale, we measure the number of white pixels (between 245 - 255) in the bottom of the image. Then we convert the image to blur scale and calculate the lines, if the slope of the lines is between -0.06 and 0.06 we return the values. Finally, we delete that part of the images.
 
 * 1.- We convert the image to grayscale
 * 2.- Take the 25% bottom part of the image 
